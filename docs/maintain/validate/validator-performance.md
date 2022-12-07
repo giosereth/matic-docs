@@ -47,7 +47,7 @@ To facilitate the transition, there will be a slightly lower benchmark around th
 
 Each GP is an additional 700 checkpoints, allowing a validator to bring their performance back above the PB. If the deficiency is corrected within the GP, there will be no further action. Failure to match, or out perform the performance benchmark, at the end of GP2 will result in a public NOD that will be displayed on the staking dashboard.
 
-The validator will have a 700 checkpoint period to correct the deficiency in GP2. If the deficiency is fixed within the NOD period, then no further action will occur. However, the NOD would remain public. Failure to improve after GP2 would result in the issuance of a FN of the community's intent to implement a forced exit procedure by offboarding the validator from the network by unbonding their stake.
+The validator will have a 700 checkpoint period to correct the deficiency in GP2. If the deficiency is fixed within the NOD period, then no further action will occur. However, the NOD would remain public. Failure to improve after GP2 would result in the issuance of an FN of the community's intent to implement a forced exit procedure by offboarding the validator from the network by unbonding their stake.
 
 ### Forced Unstaking
 
