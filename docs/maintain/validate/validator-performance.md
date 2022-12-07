@@ -25,7 +25,7 @@ These parameters and the related health statuses help provide information about 
 
 ### Parameters
 
-A single validator’s performance is measured based on checkpoints it signed over a specified period. Performance is measured on a rolling basis at each new checkpoint to provide an objective figure. This figure is then measured against a benchmark of the total network performance in that same period, as detailed below:
+A validator’s performance is measured based on checkpoints it signed over a monitoring period. Performance is measured on a rolling basis at each new checkpoint to provide an objective figure. This figure is then measured against a benchmark of the total network performance in the monitoring period, as detailed below.
 
 * Monitoring Period (“MP") = previous 700 checkpoints, updated every new checkpoint.
 * Take % of checkpoints signed by each validator in the MP and find the median.
