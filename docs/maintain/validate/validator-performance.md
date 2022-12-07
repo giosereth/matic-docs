@@ -53,4 +53,4 @@ The validator will have a 700 checkpoint period to correct the deficiency in GP2
 
 The unstaking of the deficient validator would be done as follows:
 
-Call `ForceUnstake` function in Polygon Commitchain Contract: 0xFa7D2a996aC6350f4b56C043112Da0366a59b74c
+Call the `ForceUnstake` function in Polygon Commitchain Contract: 0xFa7D2a996aC6350f4b56C043112Da0366a59b74c
